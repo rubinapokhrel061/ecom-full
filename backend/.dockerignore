@@ -8,7 +8,7 @@ yarn-error.log
 
 # Local env files
 
-.env.local
+
 
 # Editor and OS files
 .DS_Store
